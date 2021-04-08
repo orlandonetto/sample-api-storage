@@ -1,0 +1,8 @@
+{
+  "SUCCESS": "Request success.",
+  "ERR": "Request failed.",
+  "NOT_FOUND": "Not found in database.",
+  "NOT_AUTH": "Not authorized.",
+  "FIL_PRO": "Fail to process file",
+  "FIL_UPL": "Fail to upload file."
+}
