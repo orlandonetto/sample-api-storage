@@ -49,8 +49,6 @@ module.exports = {
     next();
   },
 
-
-
 }
 
 function sendError(res, error) {
