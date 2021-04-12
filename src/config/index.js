@@ -2,4 +2,4 @@
 require('./env.config');
 
 // Google Cloud Config
-require('./gcloud.config')
+require('./gcloud.config');
